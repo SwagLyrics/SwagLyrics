@@ -1,4 +1,7 @@
-# SwagLyrics - Main Repository
+<h1 align="center">
+	<img src="https://github.com/SwagLyrics/SwagLyrics/blob/master/assets/swaglyrics_transparent.png?raw=true" alt="SwagLyrics" height=200 width=200 align="middle">
+	SwagLyrics - Main Repository
+</h1>
 
 SwagLyrics fetches the currently playing song from Spotify on Windows, Linux and macOS and displays the lyrics in the command-line or in a browser tab.
 Refreshes automatically when song changes. The lyrics are fetched from Genius. There is server-side issue handling so that all songs that have lyrics on Genius can be supported.
